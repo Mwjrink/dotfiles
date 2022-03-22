@@ -1,8 +1,0 @@
-[2022-03-22 12:25:06.452] [main] [info] window#load: attempt to load window (id: 1)
-[2022-03-22 12:25:06.457] [main] [info] update#setState idle
-[2022-03-22 12:25:06.473] [main] [info] ExtensionHostStarterWorker created
-[2022-03-22 12:25:07.220] [main] [info] window#load: window reported ready (id: 1)
-[2022-03-22 12:25:07.420] [main] [info] Starting extension host with pid 3114 (fork() took 5 ms).
-[2022-03-22 12:25:07.420] [main] [info] ExtensionHostStarterWorker.start() took 5 ms.
-[2022-03-22 12:25:09.140] [main] [info] Waiting for extension host with pid 3114 to exit.
-[2022-03-22 12:25:09.140] [main] [info] Extension host with pid 3114 exited with code: 0, signal: null.
